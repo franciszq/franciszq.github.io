@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>foo_test</title>
+    <link href="/foo-test/"/>
+    <url>/foo-test/</url>
+    
+    <content type="html"><![CDATA[<img src="/foo-test/git%E4%BB%93%E5%BA%93%E7%BA%A7%E5%88%AB.png" class="">]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>同时使用github和gitlab</title>
     <link href="/hub-lab-all-use/"/>
     <url>/hub-lab-all-use/</url>
