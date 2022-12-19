@@ -33,7 +33,7 @@
     <link href="/foo/"/>
     <url>/foo/</url>
     
-    <content type="html"><![CDATA[<blockquote><p>工作中，一般使用公司的gitlab账号来使用gitlab，这个时候，需要用自己的github账号来使用github。</p></blockquote><span id="more"></span><h3 id="使用ssh密钥并配置"><a href="#使用ssh密钥并配置" class="headerlink" title="使用ssh密钥并配置"></a>使用ssh密钥并配置</h3><p><img src="test.png"></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>工作中，一般使用公司的gitlab账号来使用gitlab，这个时候，需要用自己的github账号来使用github。</p></blockquote><span id="more"></span><h3 id="使用ssh密钥并配置"><a href="#使用ssh密钥并配置" class="headerlink" title="使用ssh密钥并配置"></a>使用ssh密钥并配置</h3><img src="/foo/test.png" class="">]]></content>
     
     
     <categories>
